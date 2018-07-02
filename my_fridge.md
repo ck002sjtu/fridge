@@ -5,9 +5,6 @@ This is a repo to track the meat in my fridge
 ### Frozen
 
 #### Beef
-	
-	- Top Cut
-	  2 * 1 lb
 
 	- Groud Cut
 	  1 lb
@@ -26,8 +23,7 @@ This is a repo to track the meat in my fridge
 
 #### Chicken
 
-	- Chicken Breast
-
-	  1 lb
-
 #### Others
+
+### Frozen
+
